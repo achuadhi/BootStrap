@@ -3,7 +3,7 @@
     background-image:url('../img/blury.png');
     width:0cap;
 }
-#ker{
+#k{
     font-family:'Arima', cursive;
     font: size 100px;
 	background-image: url('../img/blury.png');
@@ -207,10 +207,6 @@ a{color:inherit;text-decoration:none}
     background-color: #42AEEC;
     color: #fff;
 }
-/* #k{
-    background-image: url(images/t8.jpg);
-    
-} */
 /* #mk{
     background-image: url('../img/Kathakali.png');
 } */
